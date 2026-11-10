@@ -1,0 +1,15 @@
+# AWS CloudTrail logs (private)
+data/event_history.json
+
+# Python files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Generated outputs
+alerts/*.csv
+reports/*.txt
